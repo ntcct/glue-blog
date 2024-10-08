@@ -1,6 +1,6 @@
 {
   "name" : "github1",
-  "jobMode" : "VISUAL",
+  "jobMode" : "SCRIPT",
   "description" : "",
   "role" : "arn:aws:iam::584894272353:role/service-role/AWSGlueServiceRole-glue_crawler",
   "executionProperty" : {
